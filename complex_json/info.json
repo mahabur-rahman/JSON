@@ -1,0 +1,46 @@
+{
+    "students": [
+
+        {
+            "name": "Anisul Islam",
+            "middleName": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegisterd": true,
+            "laguages": ["Bengali", "English", "Hindi"],
+            "friends": [
+
+                {
+                    "name": "Al Noman",
+                    "age": 28
+                },
+                {
+                    "name": "John Doe",
+                    "age": 38
+                }
+
+            ]
+        },
+
+        {
+            "name": "Mahabur Rahman",
+            "middleName": null,
+            "age": 27,
+            "cgpa": 3.16,
+            "isRegisterd": false,
+            "laguages": ["Bengali", "English", "Hindi", "Franch"],
+            "friends": [
+
+                {
+                    "name": "Al Noman",
+                    "age": 28
+                },
+                {
+                    "name": "Khaleda",
+                    "age": 18
+                }
+
+            ]
+        }
+    ]
+}
